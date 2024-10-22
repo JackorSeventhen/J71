@@ -34,6 +34,12 @@
   --nier-font: sce-ps3_rodin_latinregular;
   --selector-img: url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/assets/extras/nier-selector_low.png");
   --selector-img-invert: url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/assets/extras/nier-selector_high.png");
+  /* MAIN VARIABLES */
+    --AppName: "HEGEMON: EVERGLOW";
+    --Watermark: "Asterian Chronicles";
+    --font: 'Quicksand', 'emoji', sans-serif;
+    --Text: rgb(255, 255, 255);
+    --logo: url(https://i.imgur.com/kmmb5Vh.png);
 }
 
 ::-moz-selection {
